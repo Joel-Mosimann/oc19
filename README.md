@@ -4,11 +4,12 @@ Cours d'option complémentaire en informatique, 2019-2020 gymnase du Bugnon site
 ## joël Mosimann
 
 **connaisance aquise:**
-- langage binaire. 
+- langage binaire
 **langage de programmation**
-- Python
  -liste
  -tuples
+ -boucle 
+ -suite 
 
 
 [livre du cours](https://www.dunod.com/sciences-techniques/informatique)
