@@ -1,9 +1,13 @@
 # oc19
-Option complémentaire en informatique 2019-2020 gymnase du Bugnon
+Cours d'option complémentaire en informatique, 2019-2020 gymnase du Bugnon site de l'ours
 
 ## joël Mosimann
 
-- kjfbg
-- rhgi
+connaisance aquise:
+- langage binaire
+- Python
+  -liste
+  -tuples
+
 
 [livre du cours](https://www.dunod.com/sciences-techniques/informatique)
