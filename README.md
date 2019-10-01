@@ -4,8 +4,12 @@ Cours d'option complémentaire en informatique, 2019-2020 gymnase du Bugnon site
 ## joël Mosimann
 
 **connaisance aquise:**
+
+
 - langage binaire
 **langage de programmation**
+
+
  -liste
  -tuples
  -boucle 
