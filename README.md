@@ -6,3 +6,4 @@ Option complémentaire en informatique 2019-2020 gymnase du Bugnon
 - kjfbg
 - rhgi
 
+[livre du cours](https://www.dunod.com/sciences-techniques/informatique)
