@@ -5,9 +5,10 @@ Cours d'option complémentaire en informatique, 2019-2020 gymnase du Bugnon site
 
 connaisance aquise:
 - langage binaire
+**langage de programmation**
 - Python
-  -liste
-  -tuples
+ -liste
+ -tuples
 
 
 [livre du cours](https://www.dunod.com/sciences-techniques/informatique)
